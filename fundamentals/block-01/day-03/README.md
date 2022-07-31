@@ -35,7 +35,7 @@ mv trybe.txt trybe_rename.txt
 
 5. Dentro de `unix_tests`, crie um novo diretório chamado `backup`.
 
-   ![image5![image5](commands/5.gif)
+   ![image5](commands/5.gif)
 
 ```bash
 mkdir backup
