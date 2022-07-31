@@ -2,7 +2,7 @@
 
 1. Utilizando o terminal, aplique o comando de criação de diretórios que você aprendeu, crie um diretório chamado `unix_tests` e navegue até ele.
    
-   ![image1](exercices/1.3/fundamentals/block-01/day-03/commands/1.gif)
+   ![image1](fundamentals/block-01/day-03/commands/1.gif)
 
 ```bash
 mkdir unix_tests
