@@ -9,7 +9,7 @@ Nesse repositório estão disponíveis todos os exercícios realizados por mim e
 ##### Bloco 01: Unix e Bash
 - [x] 1.3 Unix e Shell Part 1
 
-- [] 1.4 Unix e Shell Part 2
+- [ ] 1.4 Unix e Shell Part 2
 ##### Bloco 02: Git, GitHub e Internet
 - [x] 2.1 Git & GitHub - O que é e para que serve
 
