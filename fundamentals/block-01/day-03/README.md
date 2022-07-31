@@ -2,7 +2,7 @@
 
 1. Utilizando o terminal, aplique o comando de criação de diretórios que você aprendeu, crie um diretório chamado `unix_tests` e navegue até ele.
    
-   ![image1](/home/bruno/trybe-exercices/fundamentals/block-01/day-03/commands/1.gif)
+   ![image1](/trybe-exercices/fundamentals/block-01/day-03/commands/1.gif)
 
 ```bash
 mkdir unix_tests
@@ -11,7 +11,7 @@ cd unix_tests
 
 2. Crie um arquivo de texto com o nome `trybe.txt`.
 
-![image2](/home/bruno/trybe-exercices/fundamentals/block-01/day-03/commands/2.gif)
+![image2](/trybe-exercices/fundamentals/block-01/day-03/commands/2.gif)
 
 ```bash
 touch trybe.txt
