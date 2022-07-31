@@ -8,8 +8,6 @@ Nesse repositório estão disponíveis todos os exercícios realizados por mim e
 
 ##### Bloco 01: Unix e Bash
 
-![test](fundamentals/block-01/day-03/commands/1.gif)
-
 - [x] 1.3 Unix e Shell Part 1
 
 - [ ] 1.4 Unix e Shell Part 2
